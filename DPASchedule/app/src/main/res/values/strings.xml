@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DPASchedule</string>
+    <string name="title_login">Login</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="bookAppointment">Book Appointment</string>
+    <string name="Logout">Logout</string>
+    <string name="book">Book</string>
+    <string name="_2pm_3pm">2pm-3pm</string>
+    <string name="_1pm_2pm">1pm-2pm</string>
+    <string name="_12noon_1pm">12noon-1pm</string>
+    <string name="_11am_12noon">11am-12noon</string>
+    <string name="choose_timeslot">Choose TimeSlot</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
